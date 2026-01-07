@@ -2,19 +2,10 @@
 
 # Hi 👋, I'm Darien
 
-🎯 Junior QA / Software Developer  
+🎯 Junior Software Engineer
 📍 Buenos Aires, Argentina  
-🌱 Currently learning: Testing, Automation & Web Development  
+🌱 Currently Studying Applied informatics at @UTN
 💬 Languages: Spanish (Native), English (C1)
-
----
-
-## 🛠 Tech Stack
-- **Testing:** Manual Testing, API Testing (Postman)
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Tools:** Git, GitHub, Jira
-
----
 
 ## 📊 GitHub Stats
 ![Darien's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarienPerezGit&show_icons=true&theme=dark)
@@ -23,4 +14,4 @@
 
 ## 📫 Contact
 - Email: nadarien93@gmail.com
-- LinkedIn: (poné tu link)
+- LinkedIn: https://www.linkedin.com/in/darienperez/
