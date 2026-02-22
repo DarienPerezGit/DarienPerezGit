@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-# Hi 👋, I'm Darien
+# Hi, I'm Darien
 
 🎯 Junior Software Engineer
 📍 Buenos Aires, Argentina  
