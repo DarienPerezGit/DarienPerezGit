@@ -1,39 +1,56 @@
-## Hi there 
+<div align="center">
+  <h1>Hi, I'm Darien Perez ⚡</h1>
+  <p><b>Software Engineer | Web3 & AI Agent Infrastructure</b></p>
 
-# Hi, I'm Darien
-
-🎯 Junior Software Engineer
-📍 Buenos Aires, Argentina  
-🌱 Currently Studying Applied informatics at @UTN
-💬 Languages: Spanish (Native), English (C1)
-
-## 📊 GitHub Stats
-![Darien's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarienPerezGit&show_icons=true&theme=dark)
+  <p>
+    <img src="https://img.shields.io/badge/📍-Buenos%20Aires%2C%20Argentina-E11D48?style=flat-square" />
+    <img src="https://img.shields.io/badge/🎓-UTN%20Student-003DA5?style=flat-square" />
+    <img src="https://img.shields.io/badge/💻-QA%20Expertise-22C55E?style=flat-square" />
+  </p>
+</div>
 
 ---
 
-## 🛠️ Stack tecnológico
+### 🚀 Sobre mí
 
-### Lenguajes
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Soy un desarrollador enfocado en construir infraestructura para la próxima generación de **Agentes de IA** y protocolos de pago **Web3**. Actualmente, estoy experimentando con el **Model Context Protocol (MCP)** para potenciar flujos de trabajo autónomos.
 
-### Frameworks y plataformas
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- 🔭 **Proyectos Actuales:** **Apolo** (BNB Chain) & **Pantheon** (Stellar Ecosystem).
+- 🛠️ **Foco Técnico:** Pagos Agent-to-Agent y automatización de escrows.
+- 💬 **Idiomas:** Español (Nativo) | Inglés (C1).
 
-### Herramientas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Explorando activamente
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Stack tecnológico
 
-## 📫 Contact
-- Email: nadarien93@gmail.com
-- LinkedIn: https://www.linkedin.com/in/darienperez/
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend & Web3** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) |
+| **Infra & Herramientas** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarienPerezGit&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarienPerezGit&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+</p>
+
+---
+
+### 🧪 Proyectos Destacados
+
+* **Apolo 🪐** - Sistema de escrow automatizado en BNB Chain Mainnet.
+* **Pantheon 🏛️** - Marketplace de señales de IA usando el protocolo x402 en Stellar.
+* **MCP Servers** - Implementaciones personalizadas para integrar agentes de IA con bases de datos y herramientas de búsqueda.
+
+---
+
+### 📫 Hablemos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/darienperez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nadarien93@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
