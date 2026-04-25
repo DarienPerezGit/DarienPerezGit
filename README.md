@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Darien Perez ⚡</h1>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5399FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Darien+Perez;Junior+Software+Engineer;Web3+%26+AI+Infrastructure" alt="Typing SVG" />
+</div>
   <p><b>Software Engineer | Web3 & AI Agent Infrastructure</b></p>
 
   <p>
