@@ -2,7 +2,7 @@
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5399FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Darien+Perez;Junior+Software+Engineer;Web3+%26+AI+Infrastructure" alt="Typing SVG" />
 </div>
-  <p><b>Software Engineer | Web3 & AI Agent Infrastructure</b></p>
+  <p><b>Jr. Software Engineer</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/📍-Buenos%20Aires%2C%20Argentina-E11D48?style=flat-square" />
@@ -42,11 +42,6 @@ Soy un desarrollador enfocado en construir infraestructura para la próxima gene
 
 ---
 
-### 🧪 Proyectos Destacados
-
-* **Apolo 🪐** - Sistema de escrow automatizado en BNB Chain Mainnet.
-* **Pantheon 🏛️** - Marketplace de señales de IA usando el protocolo x402 en Stellar.
-* **MCP Servers** - Implementaciones personalizadas para integrar agentes de IA con bases de datos y herramientas de búsqueda.
 
 ---
 
