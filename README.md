@@ -1,13 +1,11 @@
 <div align="center">
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5399FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Darien+Perez;Junior+Software+Engineer;Web3+%26+AI+Infrastructure" alt="Typing SVG" />
-</div>
-  <p><b>Jr. Software Engineer</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Darien+Perez;Backend+Engineer;Go+%7C+Python+%7C+APIs+%26+Services" alt="Typing SVG" />
 
+  <p><b>Backend Engineer</b></p>
   <p>
     <img src="https://img.shields.io/badge/📍-Buenos%20Aires%2C%20Argentina-E11D48?style=flat-square" />
     <img src="https://img.shields.io/badge/🎓-UTN%20Student-003DA5?style=flat-square" />
-    <img src="https://img.shields.io/badge/💻-QA%20Expertise-22C55E?style=flat-square" />
+    <img src="https://img.shields.io/badge/💻-QA%20Background-22C55E?style=flat-square" />
   </p>
 </div>
 
@@ -15,11 +13,11 @@
 
 ### 🚀 Sobre mí
 
-Soy un desarrollador enfocado en construir infraestructura para la próxima generación de **Agentes de IA** y protocolos de pago **Web3**. Actualmente, estoy experimentando con el **Model Context Protocol (MCP)** para potenciar flujos de trabajo autónomos.
+Backend engineer enfocado en construir APIs robustas y servicios escalables con **Go** y **Python**. Tengo background en QA que me da una perspectiva diferente: escribo código pensando en cómo puede romperse.
 
-- 🔭 **Proyectos Actuales:** **Apolo** (BNB Chain) & **Pantheon** (Stellar Ecosystem).
-- 🛠️ **Foco Técnico:** Pagos Agent-to-Agent y automatización de escrows.
-- 💬 **Idiomas:** Español (Nativo) | Inglés (C1).
+- 🔭 **Enfoque actual:** APIs REST en Go, concurrencia y sistemas backend
+- 🎯 **Objetivo:** Contribuir a equipos de backend de alto impacto
+- 💬 **Idiomas:** Español (Nativo) | Inglés (C1)
 
 ---
 
@@ -27,9 +25,9 @@ Soy un desarrollador enfocado en construir infraestructura para la próxima gene
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Backend & Web3** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) |
-| **Infra & Herramientas** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Infra & Herramientas** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
@@ -42,12 +40,4 @@ Soy un desarrollador enfocado en construir infraestructura para la próxima gene
 
 ---
 
-
----
-
 ### 📫 Hablemos
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/darienperez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nadarien93@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
