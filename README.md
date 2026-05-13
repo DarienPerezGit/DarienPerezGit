@@ -41,3 +41,12 @@ Backend engineer enfocado en construir APIs robustas y servicios escalables con 
 ---
 
 ### 📫 Hablemos
+
+<p align="left">
+  <a href="https://linkedin.com/in/TU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-Darien%20Perez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-TU--EMAIL%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
