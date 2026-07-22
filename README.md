@@ -4,7 +4,7 @@
 
 ➤ Building **Apolo** - trust and settlement layer for autonomous AI agents on BNB Chain + GenLayer
 
-➤ Contribuing to [bnbagent-sdk](https://github.com/bnb-chain/bnbagent-sdk/pull/45)
+➤ Contributing to [bnbagent-sdk](https://github.com/bnb-chain/bnbagent-sdk/pull/45)
 
 ➤ Go • Python • TypeScript • Solidity • Docker • PostgreSQL
 
