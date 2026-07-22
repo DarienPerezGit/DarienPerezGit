@@ -1,4 +1,4 @@
-➤ Check out my [portfolio](darien-portafolio.vercel.app)
+➤ Check out my [portfolio](https://darien-portafolio.vercel.app/)
 
 ➤ Building **Lucne** - fiscal automation platform for Argentine accounting firms (ARCA/AFIP compliance)
 
